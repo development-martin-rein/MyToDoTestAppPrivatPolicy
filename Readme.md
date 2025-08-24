@@ -1,0 +1,1 @@
+This github project is for learning purposes only. So i can learn to setup a app in the google appstore with play console
